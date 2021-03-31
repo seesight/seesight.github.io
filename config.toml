@@ -98,7 +98,7 @@ uglyURLs = false
     # 座右铭或简介
 # motto = "Viva La Vida"
     # 头像
-# avatar = "/icons/apple-touch-icon.png"
+    avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
     website = "https://seesight.github.io/"
     # 推特
@@ -323,11 +323,11 @@ uglyURLs = false
     # 站点信息
 
     # 站点的 LOGO
-    siteLogo = "/icons/apple-touch-icon.png"
+    siteLogo = "/icons/android-chrome-512x512.png"
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。"
+    siteDescription = "SeeSight's Blog"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
@@ -1077,14 +1077,14 @@ uglyURLs = false
 
     displayShareOnText = false
 
-    shareOnTwitter = true
-    shareOnFacebook = true
-    shareOnLinkedIn = true
-    shareOnTelegram = true
-    shareOnWeibo = true
-    shareOnDouban = true
-    shareOnQQ = true
-    shareOnQzone = true
+    shareOnTwitter = false
+    shareOnFacebook = false
+    shareOnLinkedIn = false
+    shareOnTelegram = false
+    shareOnWeibo = false
+    shareOnDouban = false
+    shareOnQQ = false
+    shareOnQzone = false
 
     shareViaQRCode = true
 
